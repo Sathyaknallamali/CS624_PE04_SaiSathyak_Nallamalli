@@ -1,4 +1,5 @@
 INPUT
+
  Starting with a dataset called cardsData, the software defines an array of items.  Every item is a user profile with attributes including id, name, occupation, and description.  Displayed in a card style, the application uses this information as input.
 
 
